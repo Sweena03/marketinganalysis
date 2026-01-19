@@ -11,7 +11,7 @@ The dataset consists of Marketing Ads Data from different campaigns such as Goog
 
 **Dataset Description:**     
                 
-                          - Campaign_ID	- Unique Campaign ID, Numeric Dimension
+                          - Campaign_ID	- Unique Campaign ID, Identifier
 
                           - Company	- Name of the Company, Categorical Dimension
 
