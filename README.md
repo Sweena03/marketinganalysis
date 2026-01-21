@@ -42,6 +42,7 @@ The dataset consists of Marketing Ads Data from different campaigns such as Goog
    - High spend does not always correlate with high ROI
 
 **Visualization**
+
     Built a one-page Power BI dashboard summarizing key KPIs and performance breakdowns
 
 **Tools Used**
