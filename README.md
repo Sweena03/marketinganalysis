@@ -27,9 +27,24 @@ The dataset consists of Marketing Ads Data from different campaigns such as Goog
                           - Engagement_Score	- Numerical Metric
                           - Customer_Segment - Categroical Dimension
 
-**Created  columns for derived metrics such as** 
+**Data Preparation:**
+   - Cleaned Raw data
+   - Standardized fields
+   - Created  columns for derived metrics such as:
 
                           - CTR - Click Through Rate (helps understand out of all impressions how many clicked)
                           - CPC - Cost Per cLick (How much money was spent towards each click) 
                           - Estimated_Conversions - Approximate number of conversions driven by clicks
                           - Cost Per Conversion - Calculates dollar spent towards each Conversion
+**Analysis & Insights**
+   - Channel-level ROI varies, with email and website campaigns showing higher efficiency
+   - Customer segments differ in conversion performance
+   - High spend does not always correlate with high ROI
+
+**Visualization**
+    Built a one-page Power BI dashboard summarizing key KPIs and performance breakdowns
+
+**Tools Used**
+  - Excel Online
+  - Python (pandas)
+  - Power BI
